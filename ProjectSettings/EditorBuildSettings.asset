@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/starting_scene.unity
+    guid: bd334a4b53fc8534bbf4ae0b5fd17613
+  - enabled: 1
+    path: Assets/Scenes/Mainmenu.unity
+    guid: 835c83d127b8e9745a3d39de198aeb3b
+  - enabled: 1
+    path: Assets/Scenes/Gamelist.unity
+    guid: b1df6313cbe2bc74b8aba33ae2d09e78
+  - enabled: 1
+    path: Assets/Scenes/Gyro and color/InfiniteLevel.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Gyro and color/Level1.unity
+    guid: 4c4bccdd1cd53d6429e29013bb4098c8
+  - enabled: 1
+    path: Assets/Scenes/Gyro and color/Level2.unity
+    guid: 747fe24c252f63b43a7af05055d2e89f
+  - enabled: 1
+    path: Assets/Scenes/Gyro and color/Level3.unity
+    guid: be6371b0dd6b7aa4b949b1f8e7906735
+  - enabled: 1
+    path: Assets/Scenes/Gyro and color/Level4.unity
+    guid: 961d363768e2e674aabf0e74aad88d1e
+  - enabled: 1
+    path: Assets/Scenes/Gyro and color/Level5.unity
+    guid: 1042b866818c5a8419b0490cd2686ddb
+  - enabled: 1
+    path: Assets/Scenes/Gyro and color/Level6.unity
+    guid: 8dbfae9959692c444a71add9625237b2
+  - enabled: 1
+    path: Assets/Scenes/Gyro and color/Level7.unity
+    guid: f3d99329170c86643bf79a7e98f4a19c
+  - enabled: 1
+    path: Assets/Scenes/Gyro and color/Level8.unity
+    guid: 58fde6dee8f95d74f8e34a374a33cc8b
+  - enabled: 1
+    path: Assets/Scenes/Gyro and color/Level9.unity
+    guid: 47a884203228fd948a8c558fa600937e
+  - enabled: 1
+    path: Assets/Scenes/Whack-A-Mole/Whack-A-Mole.unity
+    guid: 04b9e41478182354d9373a3df409671e
+  - enabled: 1
+    path: Assets/Scenes/Asteroids/astroids.unity
+    guid: 853a9f094684c6c4182ddc3dc330bd5d
+  - enabled: 1
+    path: Assets/Scenes/rat_level_completed.unity
+    guid: ffd52a92dada55b42ae5914fe1574e84
+  - enabled: 1
+    path: Assets/Scenes/Levellist.unity
+    guid: 3959f032afeac044da51ad1f57b79355
+  - enabled: 1
+    path: Assets/Scenes/gamelost.unity
+    guid: 86e14e4ba86401e4a954c10ee830f533
+  - enabled: 1
+    path: Assets/Scenes/gamewon.unity
+    guid: a16dd32c8784b1640b4213caa681461e
+  - enabled: 1
+    path: Assets/Scenes/credits.unity
+    guid: fc46bbd82f92a3d4aa42709bc8970c8e
+  - enabled: 1
+    path: Assets/Scenes/hello.unity
+    guid: 0ecfb9963650eca4fadd3aa411fd9e90
+  - enabled: 1
+    path: Assets/Scenes/Add related/hit the rat same color as displayed in the box
+      (1)/ThunderTut.unity
+    guid: e822a50b8a1130542a5a2d43c6ffff2f
+  - enabled: 1
+    path: Assets/Scenes/Add related/hit the rat same color as displayed in the box
+      (1)/Mole_holetut.unity
+    guid: 95b4bcecc2e4dff42a973e250e3987ba
+  m_configObjects: {}
